@@ -1,0 +1,18 @@
+//index style
+@import "./common/_index.scss";
+
+// fonts
+@import "./common/fonts.scss";
+
+// components
+@import "./common/_header.scss";
+@import "./common/_banner.scss";
+@import "./common/_tab.scss";
+@import "./common/_bottomBanner.scss";
+@import "./common/_regtangle.scss";
+@import "./common/_footer.scss";
+//media screen
+@import "./common/_media.scss";
+//hamburgers
+@import ".././node_modules/hamburgers/_sass/hamburgers/hamburgers.scss";
+// @import ".././node_modules/hamburgers/_sass/hamburgers/base";

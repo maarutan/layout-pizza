@@ -1,0 +1,67 @@
+.footer {
+	height: 260px;
+	padding: 30px 140px;
+}
+
+.uppr-fot {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+	padding: 20px;
+	max-width: 1800px;
+	gap: 20px;
+	margin: auto;
+}
+.fot-menu,
+.fot-aboutour,
+.fot-adress {
+	display: flex;
+	justify-content: center;
+	align-items: start;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+
+.navlink-foot {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	position: relative;
+	gap: 50px;
+}
+
+.uppr-fot a {
+	padding: 0 10px;
+}
+.btn-fot {
+	padding: 15px 30px;
+	border-radius: 8px;
+	border: none;
+	background: #e1daca;
+	&:hover {
+		background: #efefef;
+		box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.48);
+	}
+}
+
+.bot-fot {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	align-items: center;
+	padding: 20px 30px;
+	max-width: 1800px;
+	margin: auto;
+}
+h4 {
+	font-weight: 400;
+}
+.fot-contacts {
+	display: flex;
+	flex-direction: column;
+}
+.fot-contacts a {
+	text-decoration: underline;
+}

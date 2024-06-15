@@ -1,0 +1,84 @@
+.header {
+	padding: 5px 50px;
+	max-width: 1500px;
+	margin: auto;
+}
+.hd-ct {
+	display: flex;
+	align-items: center;
+	gap: 40px;
+}
+.hd-ct-bc {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+}
+.hd-clock {
+	display: flex;
+	align-items: center;
+	gap: 15px;
+}
+.hd-ub {
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;
+}
+
+.nav-bar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.user-btn-hd {
+	padding: 10px 10px;
+	background: #e1daca;
+	border: none;
+	border-radius: 8px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.buy-btn-hd {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 10px 17px;
+	background: #e1daca;
+	border: none;
+	border-radius: 8px;
+	gap: 10px;
+}
+.btnbar-hd {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+}
+.hd-ct-bc img span {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.hd-clock {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.line-hd {
+	border-color: #d9b15335;
+}
+
+.nav-bar {
+	padding: 10px 20px;
+}
+
+.nav-link {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 80px;
+}
+.nav-bar {
+	padding: 0 px;
+}

@@ -1,0 +1,82 @@
+.banner {
+	width: 100vw;
+	min-height: 100vh;
+	background-image: url("../../img/banner-up/banner_result.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.ban-flexBox {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	gap: 60px;
+	margin: auto;
+}
+
+.bn-text-content {
+	color: white;
+	text-align: center;
+	font-size: 2rem;
+	text-shadow: 2px 2px 3px black;
+	font-weight: 400;
+	letter-spacing: 1px;
+	line-height: 35px;
+}
+
+.hd-ct img {
+	padding: 0 5px;
+}
+.logo-bn {
+	width: 600px;
+}
+.bn-content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.btn-bn {
+	background: #ffffff;
+	padding: 10px 30px;
+	border: none;
+	border-radius: 8px;
+	font-size: 1.2rem;
+	margin-top: 40px;
+}
+
+.wrapp-pizza {
+	border-radius: 18px;
+	background: #efefef2a;
+	padding: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	gap: 10px;
+	width: 250px;
+	height: 400px;
+	box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.244);
+	padding-bottom: 0;
+}
+.title-wp {
+	font-size: 22px;
+	font-weight: 400;
+}
+.wrapp-pizza p {
+	font-size: 14px;
+}
+.wrapp-pizza h3 {
+	text-align: center;
+	font-size: 22px;
+	font-weight: 400;
+}
+.wp-svg {
+	padding: 10px;
+	background: #e1daca;
+	border-radius: 100%;
+	border-bottom: 2px solid rgba(0, 0, 0, 0.158);
+}

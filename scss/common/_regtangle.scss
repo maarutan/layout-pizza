@@ -1,0 +1,61 @@
+.rectangle {
+	// height: 240px;
+	background: #e1daca;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	// align-items: center;
+	text-align: center;
+	padding: 70px;
+}
+.questiens {
+	text-align: start;
+	line-height: 30px;
+	font-size: 1.4rem;
+	padding: 40px;
+}
+.title-qus {
+	font-size: 2rem;
+	font-weight: 400;
+}
+.social {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+	flex-direction: column;
+	padding: 40px;
+}
+.social button {
+	padding: 15px 30px;
+	border: none;
+	border-radius: 8px;
+}
+.df-soc {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 140px;
+	position: relative;
+}
+.img-df-soc {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+	flex-wrap: wrap;
+	padding: 7px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+.lineSoc {
+	height: 1px;
+	color: black;
+	background: black;
+	width: 303px;
+	position: absolute;
+	bottom: 0;
+	left: 8px;
+}

@@ -1,0 +1,231 @@
+@media (max-width: 1640px) {
+	.tab-box {
+		flex-wrap: wrap;
+	}
+}
+
+@media (max-width: 1290px) {
+	.nav-link {
+		gap: 40px;
+	}
+}
+
+@media (max-width: 1105px) {
+	.nav-link {
+		gap: 25px;
+	}
+}
+
+@media (max-width: 1055px) {
+	.nav-bar {
+		display: none;
+	}
+	.hamburgersLogos {
+		display: block;
+	}
+	.hamburger {
+		display: block;
+	}
+	.hamBox {
+		display: flex;
+		justify-content: space-between;
+		padding: 10px 20px;
+	}
+	.header {
+		padding: 10px;
+	}
+}
+
+@media (max-width: 770px) {
+	.hd-ct-bc2 {
+		display: none;
+	}
+}
+@media (max-width: 1630px) {
+	.logo-bn {
+		width: 500px;
+	}
+	.bn-text-content {
+		font-size: 1.7rem;
+	}
+	.ban-flexBox {
+		position: relative;
+		bottom: 90px;
+	}
+}
+@media (max-width: 1515px) {
+	.logo-bn {
+		width: 450px;
+	}
+	.bn-text-content {
+		font-size: 1.5rem;
+	}
+	.ban-flexBox {
+		position: relative;
+		bottom: 60px;
+	}
+}
+@media (max-width: 1485px) {
+	.logo-bn {
+		width: 400px;
+	}
+	.bn-text-content {
+		font-size: 1.5rem;
+	}
+	.ban-flexBox {
+		position: relative;
+		bottom: 0px;
+	}
+}
+
+@media (max-width: 1355px) {
+	.logo-bn {
+		width: 350px;
+	}
+	.bn-text-content {
+		font-size: 1.4rem;
+	}
+	.ban-flexBox {
+		position: relative;
+		bottom: 0px;
+	}
+}
+@media (max-width: 1225px) {
+	.ban-flexBox {
+		position: relative;
+		bottom: 50px;
+	}
+}
+@media (max-width: 1125px) {
+	.ban-flexBox {
+		position: relative;
+		bottom: 70px;
+	}
+}
+@media (max-width: 1000px) {
+	.ban-flexBox {
+		position: relative;
+		bottom: 90px;
+	}
+}
+
+@media (max-width: 935px) {
+	.logo-bn {
+		width: 250px;
+	}
+	.bn-text-content {
+		font-size: 1.3rem;
+	}
+	.ban-flexBox {
+		position: relative;
+		bottom: 120px;
+	}
+}
+@media (max-width: 860px) {
+	.logo-bn {
+		width: 250px;
+	}
+	.bn-text-content {
+		font-size: 1.3rem;
+	}
+	.ban-flexBox {
+		position: relative;
+		bottom: 140px;
+	}
+}
+@media (max-width: 800px) {
+	.logo-bn {
+		width: 250px;
+	}
+	.bn-content {
+		position: relative;
+		top: 300px;
+		padding: 0 30px;
+	}
+	.bn-text-content {
+		color: rgb(0, 0, 0);
+		text-align: center;
+		font-size: 2rem;
+		text-shadow: none;
+		font-weight: 400;
+		letter-spacing: 1px;
+		line-height: 35px;
+	}
+	.tab-box {
+		padding-top: 300px;
+	}
+	.btn-bn {
+		background-color: #e1daca;
+	}
+	.ban-flexBox {
+		position: relative;
+		bottom: 0px;
+		gap: 0;
+	}
+}
+
+@media (max-width: 425px) {
+	.hd-ct-bc,
+	.time-ck {
+		font-size: 1rem;
+	}
+}
+@media (max-width: 621px) {
+	.ban-flexBox {
+		bottom: 50px;
+	}
+}
+@media (max-width: 700px) {
+	.lineSoc {
+		display: none;
+	}
+	.df-soc {
+		gap: 30px;
+	}
+}
+
+@media (max-width: 465px) {
+	.ban-flexBox {
+		bottom: 20px;
+	}
+}
+
+@media (max-width: 430px) {
+	.ban-flexBox {
+		bottom: 0px;
+	}
+}
+@media (max-width: 376px) {
+	.ban-flexBox {
+		top: 30px;
+	}
+	.tab-box {
+		padding-top: 400px;
+	}
+}
+
+@media (max-width: 425px) {
+	.ban-flexBox {
+		bottom: 20px;
+	}
+}
+@media (max-width: 1150px) {
+	.footer {
+		padding: 30px 0px;
+	}
+}
+@media (max-width: 1079px) {
+	.uppr-fot {
+		justify-content: center;
+		gap: 50px;
+	}
+}
+@media (max-width: 1170px) {
+	.pizza-card {
+		display: flex;
+		align-items: center;
+		gap: 50px;
+		justify-content: start;
+		overflow-x: scroll;
+	}
+}

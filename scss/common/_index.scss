@@ -1,0 +1,32 @@
+html,
+body {
+	height: 100vh;
+	width: 100vw;
+	overflow-x: hidden;
+}
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: "TT Commons", sans-serif;
+	font-size: 1.3rem;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+button {
+	transition: 0.2s;
+	cursor: pointer;
+}
+
+.hamburgersLogos {
+	display: none;
+}
+.hamNone {
+	display: none;
+}

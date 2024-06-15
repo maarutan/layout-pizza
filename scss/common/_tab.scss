@@ -1,0 +1,61 @@
+.pastaimg {
+	width: 250px;
+}
+.hotfood {
+	width: 250px;
+}
+.soup {
+	width: 250px;
+}
+.burger {
+	width: 250px;
+}
+.chitos {
+	width: 250px;
+}
+.grnier {
+	width: 250px;
+}
+.dringking {
+	width: 250px;
+}
+.tab-box {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	gap: 20px;
+	padding: 30px;
+}
+.tab-btn {
+	padding: 12px 40px;
+	border: solid 2px black;
+	background: none;
+	border-radius: 8px;
+	transition: 0.2s;
+	font-size: 1rem;
+	cursor: pointer;
+	&:hover {
+		background-color: #e1daca;
+		border: solid 2px #e1daca;
+	}
+}
+
+.content-box-tb #content {
+	display: none;
+}
+.content-box-tb #content.active {
+	display: block;
+}
+
+.tab-btn.active {
+	background-color: #e1daca;
+	border: solid 2px #e1daca;
+}
+
+.pizza-card {
+	display: grid;
+	grid-template-columns: repeat(4, 250px);
+	gap: 50px;
+	padding: 30px;
+	justify-content: center;
+}
