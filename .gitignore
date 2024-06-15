@@ -1,5 +1,5 @@
 # Игнорировать каталог с модулями Node.js
 node_modules/
-
-
+#npm i
+#npm i sass
 
